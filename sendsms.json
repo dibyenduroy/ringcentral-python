@@ -1,0 +1,14 @@
+{
+  "from": "15551234455",
+  "text": "Hello, World!",
+  "scheduledAt": "2020-03-31T18:39:05.797Z",
+  "expiresIn": 300,
+  "messages": [
+    {
+      "to": "15551234477",
+      "text": "Hello, World!",
+      "scheduledAt": "2020-03-31T18:39:05.797Z",
+      "expiresIn": 200
+    }
+  ]
+}
